@@ -1,0 +1,4 @@
+{"timestamp": "2026-10-22T09:15:00Z", "sensor_id": "TEMP-01", "value": 21.4, "unit": "degC", "status": "OK"}
+{"timestamp": "2026-10-22T09:15:01Z", "sensor_id": "TEMP-01", "unit": "degC", "status": "OK"}
+{"timestamp": "not-a-date", "sensor_id": "TEMP-02", "value": 99999, "unit": "degC", "status": "FAULT"}
+this is not json at all
